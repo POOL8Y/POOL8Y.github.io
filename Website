@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuperShortStories</title>
+</head>
+<body>
+    <header id="main-header">
+         <h1>Super Short Stories </h1>
+         <nav>  
+            <ul id="nav-ul">
+                <li><a href="" class="navbuton">Home</a></li>
+                    <!-- This should only be used for hyperlinks -->
+                
+                <li><a href="" class="navbuton">About</a></li>
+                <li><a href="" class="navbuton">Contact</a></li>
+                <li><a href="" class="navbuton">Other</a></li>
+            </ul>
+        </nav>
+    </header>  
+    <main>
+        <div>
+            <div>
+                <article>
+                    <header>
+                        <!-- Article's header goes here-->  
+                        <h2> A collection of my Short Stories </h2>
+                            <h3> read time: 3 minutes</h3>
+                    </header>
+                    <main>
+                        <p> Max and Rex's Big Park Adventure. 
+                        </p>
+                            
+                        <p>One sunny afternoon, Max and his best friend, Rex the dinosaur, decided to go to the park. Rex wasn’t your average dinosaur; he was a small, bright green triceratops, about the size of a golden retriever. Most kids had dogs or cats, but Max had Rex, and they did everything together.
+
+                            Max grabbed his backpack, and Rex excitedly stomped his feet. “Ready, Rex?” Max asked. Rex gave a playful roar, which Max always took as a yes.
+                            
+                            When they got to the park, it was buzzing with other kids running around, swings creaking, and kites flying high in the sky. Max and Rex raced to the jungle gym first, pretending they were explorers climbing a tall mountain. Rex was especially good at balancing on the narrow beams with his short but sturdy legs. After conquering the jungle gym, they rolled down the grassy hills and played tag near the pond.
+                            
+                            Everything was perfect—until they noticed something strange.
+                            
+                            In the middle of the park, a group of kids was gathered around a tall oak tree. Max and Rex ran over to see what was happening. A little girl stood there, tears in her eyes, pointing up at the tree.
+                            
+                            “My kite! It got stuck!” she cried, her bright pink kite swaying high in the branches, far out of reach.
+                            
+                            Max looked up, scratching his head. “How are we gonna get that down?” he asked Rex. The dinosaur gave a concerned little growl, circling the tree.
+                            
+                            The branches were way too high for Max to climb, and there was no ladder in sight. The other kids had already tried throwing balls and sticks to knock it down, but nothing worked. Everyone was giving up hope, and the little girl’s sniffles grew louder.
+                            
+                            Max frowned, feeling a little hopeless himself, but then he remembered something—Rex was no ordinary dinosaur. Rex might be small, but he was super strong!
+                            
+                            “I’ve got an idea!” Max said, his face lighting up.
+                            
+                            He whispered his plan to Rex, who nodded and snorted in agreement. Rex stood firm near the base of the tree, and Max carefully climbed onto his back. “Steady, Rex!” Max said as he reached his hands up toward the lowest branch.
+                            
+                            With a bit of a hop and Rex boosting him up with his strong horns, Max managed to grab hold of the branch. Slowly but surely, he pulled himself up until he was high enough to reach the kite. He untangled the string from the branches and gave it a gentle tug until it came free.
+                            
+                            “I got it!” Max yelled, holding the kite up in triumph.
+                            
+                            The little girl’s tears turned into a big smile as Max carefully climbed back down onto Rex’s back. Once he hopped down onto the ground, he handed her the kite, and the crowd of kids cheered.
+                            
+                            “Thank you!” the girl squealed, hugging her kite close. “You and your dinosaur are amazing!”
+                            
+                            Max patted Rex on the head. “Couldn’t have done it without you, buddy,” he said, and Rex let out a proud little roar.
+                            
+                            After that, Max and Rex spent the rest of the afternoon playing with the other kids, feeling like heroes. And even though Max was just a boy and Rex was just a small triceratops, together, they could handle anything.
+                            
+                            As the sun began to set, they headed home, tired but happy. It had been a big adventure, and they couldn’t wait to see what the next one would bring.
+                            
+                            "Good job today, Rex," Max said as they walked back. Rex just nudged him with his head, a soft, contented snort escaping him.
+                            
+                            Together, Max and Rex were the perfect team, always ready for their next adventure.</p> 
+                            
+                                 
+                    </main>
+                    <footer> 
+                        <h2>Author: James Poole</h2>
+                        <h3>Published: 10/09/2024</h3>
+                        <img src="https://placebear.com/50/50" alt="A profile pic of a bear">
+                        
+                    </footer>
+                
+                </article>
+                <article>
+                    <header>
+                        <!-- Article's header goes here-->  
+                      <h3> read time: 5 minutes</h3>
+                    </header>
+                    <main>
+                        <p> Max and Rex’s First Day of School </p>
+                            
+                        <p>Max woke up early, feeling both excited and nervous. Today was his first day of school, and that meant a new adventure—but also, a lot of unknowns. He looked over at Rex, his little green triceratops, who was snoring softly in the corner of his room.
+
+                            “Hey, Rex, guess what?” Max whispered as he got dressed. “We’re going to school today.”
+                            
+                            Rex lifted his head, blinking sleepily, and let out a small roar as if to say, I’m ready!
+                            
+                            Max wasn’t sure if anyone else would bring a dinosaur to school, but he couldn’t imagine going without Rex. They did everything together, and school was no different. So, Rex trotted beside Max as they walked through the front doors of Greenwood Elementary, his short legs making quick work of the front steps.
+                            
+                            Inside, the hallway buzzed with excitement. Kids were running to their classrooms, teachers greeted everyone with warm smiles, and lockers clanged open and shut. Max clutched his backpack nervously, trying to keep track of all the new faces and noises. He was a little overwhelmed, but Rex stayed close, nudging his leg to remind him that they were in this together.
+                            
+                            Their first stop was Mrs. Thompson’s classroom. As they walked in, all the kids turned to stare at Max and, of course, Rex.
+                            
+                            “Is that a real dinosaur?” one boy asked, wide-eyed.
+                            
+                            Max smiled. “Yep! This is Rex. He’s my best friend.”
+                            
+                            Rex let out a soft, friendly growl and wagged his tiny tail. Mrs. Thompson raised an eyebrow but didn’t seem too surprised—after all, Max was known for having the only dinosaur in town.
+                            
+                            “Alright, class,” Mrs. Thompson said, clapping her hands, “find your seats. We’re going to start the day by introducing ourselves.”
+                            
+                            Max found a spot at the back of the room, with Rex curling up beside his desk. The introductions began, and as Max listened to the other kids share their names and favorite things, his excitement about school started to grow. But just as he was feeling settled, Mrs. Thompson made an announcement.
+                            
+                            “Now, it’s time for recess!” she said.
+                            
+                            Everyone cheered and rushed toward the door, eager to get outside. Max and Rex were excited too—until they reached the playground and noticed something was very wrong.
+                            
+                            The playground was split in two by a huge fence, and on the other side was the big kid playground. It had all the best equipment: the tallest slides, the coolest swings, and even a climbing wall. But Max and the other younger kids were stuck on the smaller playground, with just a couple of swings and a very low slide.
+                            
+                            Max frowned as he looked through the fence. “I want to go over there, Rex,” he said, pointing at the big kid area. Rex nodded in agreement, his tail swishing impatiently.
+                            
+                            But there was one problem—the fence. It wasn’t tall, but it was sturdy, and there was no way to get through.
+                            
+                            Some of the other kids noticed too and began complaining. “Why do we have to stay over here?” one boy grumbled. “The big kids always get the best stuff.”
+                            
+                            Max knew they had to figure something out, but how? Then, an idea sparked in his mind. He crouched down next to Rex and whispered his plan. Rex gave a determined roar, ready for action.
+                            
+                            Max stood up and called to the other kids, “Hey! If we work together, we can solve this!”
+                            
+                            Everyone gathered around, curious. Max pointed to the fence. “Rex is strong enough to dig under the fence, and if we help push the dirt, we can make a tunnel for everyone to crawl through!”
+                            
+                            The kids’ eyes lit up with excitement, and they quickly got to work. Rex began digging with his strong front feet, moving dirt aside like a bulldozer. Max and the other kids used their hands to help, scooping out the loose dirt and widening the tunnel. Before long, there was a big enough hole for them to crawl through.
+                            
+                            One by one, they wiggled under the fence and burst out onto the big kid playground, cheering with joy. They ran toward the tall slides, climbed the wall, and swung high on the swings, laughing the whole time.
+                            
+                            Max and Rex stood back for a moment, proud of what they’d done together. They had solved the problem with teamwork, just like always.
+                            
+                            But just as they were about to join in the fun, they heard a loud voice. “What’s going on here?” It was Mrs. Thompson, standing at the fence with her hands on her hips.
+                            
+                            Max’s heart sank. Were they in trouble?
+                            
+                            The kids quickly explained what happened, how they felt left out and wanted to play on the big kid playground too. Mrs. Thompson listened carefully, and after a moment, her serious expression softened.
+                            
+                            “I see,” she said, kneeling down to their level. “You all worked together to solve a problem, and that’s great! But you should have asked first.”
+                            
+                            Max shifted nervously. “We just wanted to play with the big kids…”  Mrs. Thompson smiled. “I understand, Max. And I think we can make a new rule. From now on, the playgrounds will be open to everyone.” The kids cheered again, even louder this time. Max grinned, relieved, and Rex let out a happy roar. As they ran off to play, Max realized something important. School might have its challenges, but with Rex by his side, there was no problem they couldn’t solve together. And that was the best lesson of the day.</p> 
+                            
+        
+                    </main>
+                    <footer> 
+                        <h2>Author: James Poole</h2>
+                        <h3>Published: 11/09/2024</h3>
+                        <img src="https://placebear.com/50/50" alt="A profile pic of a bear">
+                        
+                        
+                    </footer>
+                
+                </article> 
+                <article>
+                    <header>
+                        <!-- Article's header goes here-->  
+                            <h3> read time: 5 minutes</h3>
+                    </header>
+                    <main>
+                        <p>Max, Rex, and the Spooky Sleepover
+
+                
+                            
+                        <p> It was a chilly Friday night, and Max was packing his bag for the big sleepover at his friend Oliver’s house. He threw in his pajamas, toothbrush, and his favorite superhero comic book. But there was one thing missing.
+
+                            “Come on, Rex, you’re coming with me!” Max said, patting his green triceratops on the head.
+                            
+                            Rex gave a little snort, his eyes lighting up at the thought of adventure. Max had never been to a sleepover without Rex, and tonight wasn’t going to be any different.
+                            
+                            “Oliver’s house has a big backyard,” Max explained as they set off. “We can explore it after dark!” Rex growled in excitement. The two of them loved nighttime adventures.
+                            
+                            When they got to Oliver’s house, the living room was already filled with sleeping bags, pillows, and kids talking excitedly about staying up all night. Oliver grinned when he saw Max and Rex walk in.
+                            
+                            “You brought Rex!” Oliver said. “This is gonna be the best sleepover ever!”
+                            
+                            Max smiled and unrolled his sleeping bag next to Rex, who had already curled up comfortably. After pizza, video games, and a quick pillow fight, it was finally time for the thing everyone had been talking about all night: the spooky story.
+                            
+                            Oliver flicked off the lights and turned on a flashlight, holding it under his chin to make his face look extra creepy. All the kids huddled around as he began the story.
+                            
+                            “It was a dark and stormy night,” Oliver whispered. “A group of explorers went into the forest, looking for treasure. But instead, they found… the Shadow Creature!”
+                            
+                            The kids gasped. Rex, who was listening intently, let out a nervous snort and shuffled closer to Max. Max patted Rex’s side, trying to be brave.
+                            
+                            Oliver continued, his voice low. “No one knows where the Shadow Creature hides… but some say it lives in the woods… waiting… for the right moment to—”
+                            
+                            Just then, there was a loud thud from outside, like something had fallen in the backyard. Everyone froze. The room went silent.
+                            
+                            “W-what was that?” one of the kids whispered.
+                            
+                            Oliver turned off the flashlight and looked around, eyes wide. “I don’t know,” he said nervously. “Maybe it was just the wind.”
+                            
+                            Another thud. This time louder, like something big had landed right outside the back door.
+                            
+                            Max’s heart raced. He wasn’t sure if it was the story or the strange noises, but he could feel his stomach twist. Rex, sensing the tension, stood up and let out a small growl, his tail swishing anxiously.
+                            
+                            “We should check it out,” Max said, his voice shaky but determined. “What if it’s the Shadow Creature?”
+                            
+                            The kids all looked at each other, unsure. No one seemed eager to go into the dark backyard. But Max wasn’t about to let fear stop him—especially with Rex by his side.
+                            
+                            “I’ve got Rex with me,” Max said, trying to sound brave. “He’ll protect us.”
+                            
+                            The other kids nodded, still nervous but feeling a bit better with Rex leading the way. Max grabbed a flashlight, and with Rex by his side, they slowly opened the back door and stepped into the yard. The night air was cool, and everything was still.
+                            
+                            But then, they heard it again—a low, rumbling sound coming from the far corner of the yard, where the shadows of tall trees loomed.
+                            
+                            Max pointed the flashlight toward the trees, and for a second, he thought he saw something move. Rex stood firm, his tail stiff and his eyes locked on the dark spot in the yard. He growled, low and protective.
+                            
+                            Max’s heart pounded, but he took a deep breath. “Come on, Rex. Let’s check it out.”
+                            
+                            They crept closer, and just as they reached the tree line, something rustled in the bushes. The kids behind them gasped, and Max held his breath. Was it the Shadow Creature?
+                            
+                            Suddenly, a small, furry shape burst out from the bushes—a raccoon! It scampered across the yard, knocking over a trash can as it went, sending the lid clanging to the ground.
+                            
+                            The kids burst out laughing, all the fear melting away in an instant. “It’s just a raccoon!” Oliver laughed. “That’s what was making all the noise!”
+                            
+                            Max let out a huge sigh of relief, and Rex gave a proud snort, as if to say, I knew it all along. The raccoon scurried off into the night, leaving the backyard quiet once again.
+                            
+                            With the mystery solved, Max turned to the group. “See? There’s no Shadow Creature—just a noisy raccoon!”
+                            
+                            The kids cheered and followed Max and Rex back inside, still giggling about how scared they had been. They spent the rest of the night talking about how brave Max and Rex were for leading the way. Even though they didn’t find a shadowy monster, Max realized something important: with Rex by his side, there was no need to be afraid of the dark—or spooky stories.
+                            
+                            As they settled back into their sleeping bags, Max smiled and whispered to Rex, “You’re the best adventure buddy ever.”
+                            
+                            Rex snuggled up next to him, content and happy. Together, they drifted off to sleep, dreaming of their next big adventure—whatever it might be.
+                            
+                            And this time, Max knew for sure that no shadowy creatures, raccoons, or anything else could scare them. Not when they were together. </p> 
+                            </p>
+        
+                    </main>
+                    <footer> 
+                        <h2>Author: James Poole</h2>
+                        <h3>Published: 12/09/2024</h3>
+                        <img src="https://placebear.com/50/50" alt="A profile pic of a bear">
+                        
+                        
+                    </footer>
+                
+                </article>
+            </div>
+     
+            <aside>
+                <h2>Filter by Month</h2>
+                <nav>
+                    <ul>
+                        <li><a href="/blog/month/january">January</a></li>
+                        <li><a href="/blog/month/february">February</a></li>
+                        <li><a href="/blog/month/march">March</a></li>
+                        <li><a href="/blog/month/april">April</a></li>
+                        <li><a href="/blog/month/may">May</a></li>
+                        <li><a href="/blog/month/june">June</a></li>
+                        <li><a href="/blog/month/july">July</a></li>
+                        <li><a href="/blog/month/august">August</a></li>
+                        <li><a href="/blog/month/september">September</a></li>
+                        <li><a href="/blog/month/october">October</a></li>
+                        <li><a href="/blog/month/november">November</a></li>
+                        <li><a href="/blog/month/december">December</a></li>
+                        
+                    </ul>
+                </nav>
+            
+                <section>
+                    <h2>Filter by Genre</h2>
+                    <nav>
+                        <ul>
+                            <li><a href="/blog/Max and Rex">Max and Rex</a></li>
+                            <li><a href="/blog/Max and Rex">Others coming soon</a></li>
+                          
+                            <!-- Add more categories as needed -->
+                        </ul>
+                    </nav>
+                </section>
+            </aside>
+        </div>
+        <hr>
+        <h2>Sign up for our newsletter </h2>
+        <form action="" method=""></form>
+        <label for="first_name">First Name:</label>
+        <input type="text" id="first_name" name="first_name" required>
+       <br>
+        <label for="last_name">Last Name:</label>
+        <input type="text" id="last_name" name="last_name" required>
+        <br>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email">
+        <br>
+        <label for="password">password</label>
+        <input type="password" name="password" id="password">
+        <br>
+
+        <label for ="favourite_animal">Favourite Animal:</label>
+        <input type="radio" name="favourite_animal" id="dog" value="dog">
+        <label for="dog">Dog</label>
+        <input type="radio" name="favourite_animal" id="cat" value="cat">
+        <label for="cat">cat</label>
+        <input type="radio" name="favourite_animal" id="mouse" value="mouse">
+        <label for="mouse">mouse</label>
+        <br>
+
+        <label for="country">Country:</label>
+        <select name="country" id="country">
+            <option value = "england">england</option>
+            <option value = "Scotland">Scotland</option>
+            <option value = "Wales">Wales</option>
+            <option value = "Northern Ireland">Northern Ireland</option>
+             </slect>
+            <br>
+            <label for="bio">Biography:</label>
+            <textarea name="bio" id="bio" cols="30" rows="10"></textarea>
+            <br>
+
+
+            <input type= "checkbox"id="subscribe" name="subscirbe">
+            <label for="subscirbe">Subscribe to our newsletter!</label>
+            <br>
+
+            <input type="submit" value="Send!">
+
+    
+    </form>
+        <hr>
+
+    </main>
+     <footer>
+        <h2>SuperShortStories</h2>
+        <div id="footer container"></div>
+        <section>
+            <nav>
+                <ul id="footer-ul">
+                <div>
+                     <li><a href="">Home</a></li>
+                    <li><a href="">about</a></li>
+                    <li><a href="">Contact</a></li>
+                    <li><a href="">Careers</a></li>
+                </div>
+               <div>
+                <li><a href="">Privacy policy</a></li>
+                <li><a href="">Terms and conditions</a></li>
+                <li><a href="">Cookie policy</a></li>
+               </div>
+               
+            </ul>
+        </nav>
+        </section> 
+    </footer>
+</body>
